@@ -11,10 +11,11 @@ O aplicativo/site permite você criar e visualizar eventos. Além de se conectar
 Isso é apenas um protótipo, sem possibilidade de criação no momento.
 
 ## Índice
-- Funcionalidades
-- Tecnologias Utilizadas
-- Autores
-- Licença
+* [Funcionalidades](#funcionalidades)
+* [Tecnologias](#tecnologias-utilizadas)
+* [Autores](#autores)
+* [Licenças](#licença)
+
 ## Funcionalidades
 - Listar as principais funcionalidades do projeto, como:
  - Cadastrar eventos
@@ -26,15 +27,14 @@ Isso é apenas um protótipo, sem possibilidade de criação no momento.
  - Comentar, excuir, curtir, avaliar e salvar eventos  
  - Acessibilidade 
 ## Tecnologias Utilizadas
-- **Linguagem/Frameworks:**
- Liste as principais tecnologias usadas no projeto, como por exemplo:
- - HTML
- - CSS
- - Java Script 
- - Bootstrap
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ - Java Script ](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Autores
-Equipe Dev Ladies - 
+Equipe Dev Ladies 🌹 - 
 - Julia Rosa - JuliaRosa0401 - juliarosa040108@gmail.com
 - Ligia Costa - Ligia-Costa - ligia.costa.senai@gmail.com
 - Sarah Venâncio -SarahVenancio - sarah.venancio.senaisp@gmail.com
