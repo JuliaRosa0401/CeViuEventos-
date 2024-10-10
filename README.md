@@ -1,5 +1,10 @@
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
-# Cê Viu? -- Itapeva eventos
+
+
+<h1 align="center">Cê Viu - Itapeva Eventos</h1>
+
+![Logo ce viu](assets/img/bannerceviu.png)
+
 **Descrição:**
 O projeto Cê viu? é uma colaboração da empresa Dev Ladies com o Instituto Arte e Cultura, ele tem o propósito de divulgar os eventos culturais da cidade de Itapeva assim incentivando artistas e possiveis investidores. Ademais trazendo acesso facil de cultura para a população.
 O aplicativo/site permite você criar e visualizar eventos. Além de se conectar com amigos e comunidades.
