@@ -1,0 +1,98 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Correção aqui */
+    font-family: sans-serif;
+}
+
+@font-face {
+    font-family: titulo;
+    src: url(Inter-VariableFont_opsz,wght.ttf); 
+}
+
+@font-face {
+    font-family: negrito;
+    src: url(Inter_18pt-Bold.ttf); 
+}
+
+:root {
+    --titulo: "titulo";   
+}
+
+:root {
+    --negrito: var(--negrito);
+}
+
+/* 
+ h1{
+    height: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    font-size: 5em;
+    font-family: var(--negrito);
+    font-size: x-large;
+    justify-content: center;
+    text-align: center;
+} */
+.titulo2 {
+    font-family: var(--titulo);
+    font-size: x-large;
+    text-align: center;
+}
+
+.paragrafo {
+    font-family: var(--titulo);
+    font-size: medium;
+}
+
+.legenda {
+    font-family: var(--titulo);
+    font-size: small;
+}
+
+/* Core */
+.cor1 {
+    color: #63b3dd;
+}
+
+.cor2 {
+    color: #feed8a;
+}
+
+.cor3 {
+    color: #163545;
+}
+
+.color4 {
+    color: #d5b300;
+}
+
+/* Display */
+.linha {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: black 2px solid;
+}
+
+.caixa {
+    height: 100px;
+    border: gray 1px dashed;
+}
+
+.grande {
+    width: 100%;
+}
+
+.media {
+    width: 50%;
+}
+
+.pequena {
+    width: 33%;
+}
