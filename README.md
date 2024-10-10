@@ -11,9 +11,9 @@ O aplicativo/site permite você criar e visualizar eventos. Além de se conectar
 Isso é apenas um protótipo, sem possibilidade de criação no momento.
 
 ## Índice
-* [Funcionalidades](#funcionalidades)
-* [Tecnologias](#tecnologias-utilizadas)
-* [Autores](#autores)
+* [Funcionalidades](#funcionalidades) 🔧
+* [Tecnologias](#tecnologias-utilizadas) 💻
+* [Autores](#autores) 
 * [Licenças](#licença)
 
 ## Funcionalidades
