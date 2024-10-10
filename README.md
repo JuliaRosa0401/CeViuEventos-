@@ -13,11 +13,10 @@ Isso é apenas um protótipo, sem possibilidade de criação no momento.
 ## Índice
 * [Funcionalidades](#funcionalidades) 🔧
 * [Tecnologias](#tecnologias-utilizadas) 💻
-* [Autores](#autores) 
-* [Licenças](#licença)
+* [Autores](#autores) ✍
+* [Licenças](#licença) 📜
 
 ## Funcionalidades
-- Listar as principais funcionalidades do projeto, como:
  - Cadastrar eventos
  - Pesquisar e filtrar apartir de suas preferencias 
  - Criar posts e lembretes
