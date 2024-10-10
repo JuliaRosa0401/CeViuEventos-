@@ -3,7 +3,7 @@
 **Descrição:**
 O projeto Cê viu? é uma colaboração da empresa Dev Ladies com o Instituto Arte e Cultura, ele tem o propósito de divulgar os eventos culturais da cidade de Itapeva assim incentivando artistas e possiveis investidores. Ademais trazendo acesso facil de cultura para a população.
 O aplicativo/site permite você criar e visualizar eventos. Além de se conectar com amigos e comunidades.
-Isso é apenas um templates, sem possibilidade de criação no momento.
+Isso é apenas um protótipo, sem possibilidade de criação no momento.
 
 ## Índice
 - Funcionalidades
@@ -29,8 +29,9 @@ Isso é apenas um templates, sem possibilidade de criação no momento.
  - Bootstrap
 
 ## Autores
-Mencione o nome dos alunos responsáveis pelo desenvolvimento do projeto e seus respectivos contatos.
-- Nome do Aluno 1 - GitHub - aluno1@senai.com.br
-- Nome do Aluno 2 - GitHub - aluno2@senai.com.br
+Equipe Dev Ladies - 
+- Julia Rosa - JuliaRosa0401 - juliarosa040108@gmail.com
+- Ligia Costa - Ligia-Costa - ligia.costa.senai@gmail.com
+- Sarah Venâncio -SarahVenancio - sarah.venancio.senaisp@gmail.com
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
